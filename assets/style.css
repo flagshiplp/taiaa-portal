@@ -4,7 +4,7 @@ File: assets/style.css (shared styles)
 @media (prefers-color-scheme: dark) {
   :root {
     --bg: #0a0b0e;
-    --ink: #e8eaed;
+    --ink: #ffffff;
     --muted: #9aa0a6;
   }
 }
