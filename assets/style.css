@@ -1,10 +1,12 @@
 <!-- =========================
 File: assets/style.css (shared styles)
 ========================= -->
+
+
 :root {
-  --bg: #ffffff;    /* white background */
-  --ink: #111111;   /* dark text */
-  --muted: #555555; /* gray muted text */
+  --bg: #0a0b0e;    /* dark background */
+  --ink: #e8eaed;   /* light gray text */
+  --muted: #9aa0a6; /* muted light gray */
 }
 *{box-sizing:border-box}
 html,body{margin:0;padding:0;font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:var(--bg);color:var(--ink)}
